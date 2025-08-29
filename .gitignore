@@ -11,9 +11,9 @@ data/
 embeddings_split/
 faiss_indices/
 data.csv/
-data_with_embeddings.csv/
-all_photos_metadata.csv/
-final_data_split.csv/
+data_with_embeddings.csv
+all_photos_metadata.csv
+final_data_split.csv
 
 # Distribution / packaging
 .Python
